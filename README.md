@@ -10,6 +10,6 @@
 ![HTML](https://i.ibb.co/41fmmJj/html.png)
 ![CSS](https://i.ibb.co/7twStGd/css.png)
 
-#
+## OUTROS
 ![GIT](https://i.ibb.co/cNJmzHT/Git-Icon-1788-C.png)
 ![GITHUB](https://i.ibb.co/7WfKFyM/github2.png)
