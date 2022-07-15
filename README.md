@@ -1,4 +1,4 @@
-# Praticando mais! :technologist:		 
+# Praticando! :technologist:		 
  * Mais um exercício que pratiquei com a vídeo aula do canal [Hostinger Brasil](https://www.youtube.com/watch?v=gRIWFYRaVto&ab_channel=HostingerBrasil)
 # Aprendendo +
  * Sobre:
